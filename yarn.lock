@@ -4841,9 +4841,9 @@ react-navigation-drawer@0.4.3:
   dependencies:
     react-native-drawer-layout-polyfill "^1.3.2"
 
-react-navigation-tabs@0.5.1:
+"react-navigation-tabs@git+https://github.com/ekling/react-navigation-tabs.git#8c936ea1f510eb6797619e951f65e79fc300a2f2":
   version "0.5.1"
-  resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-0.5.1.tgz#ed33bce3a3e21b92646700de25bd94b8fc570371"
+  resolved "git+https://github.com/ekling/react-navigation-tabs.git#8c936ea1f510eb6797619e951f65e79fc300a2f2"
   dependencies:
     hoist-non-react-statics "^2.5.0"
     prop-types "^15.6.1"
